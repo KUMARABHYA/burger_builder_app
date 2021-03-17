@@ -2,9 +2,10 @@
   "name": "burger-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://KUMARABHYA.github.io/burger-builder-app1",
+  "homepage": "http://KUMARABHYA.github.io/burger_builder_app",
   "dependencies": {
     "autoprefixer": "7.1.6",
+    "axios": "^0.21.1",
     "babel-core": "6.26.0",
     "babel-eslint": "7.2.3",
     "babel-jest": "20.0.3",
